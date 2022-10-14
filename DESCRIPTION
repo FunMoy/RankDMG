@@ -1,0 +1,11 @@
+Package: RankDMG
+Type: Package
+Title: Identification of differential methylation genes(DMGs) in methylation array data
+Version: 0.1.0
+Author: Qi Fan
+Maintainer: Qi Fan <2234042391@qq.com>
+           Haidan Yan <Joyan168@126.com>
+Description: RankDMG can identify of individual-level and population-level DMGs in methylation array data
+License: No license
+Encoding: UTF-8
+LazyData: true
